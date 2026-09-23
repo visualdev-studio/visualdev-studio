@@ -57,7 +57,7 @@
   <a href="https://www.instagram.com/alfian_ab76?stkn=MWNoaHdzMThrOGJvNw==">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="LINK_TIKTOK_ANDA_DISINI">
+  <a href="https://www.tiktok.com/@fynnn_76?_r=1&_t=ZS-99yjd8mggcy">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
 </p>
