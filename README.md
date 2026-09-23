@@ -39,7 +39,6 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats (Tokyonight Theme)</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AvaRute&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 </p>
