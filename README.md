@@ -18,6 +18,7 @@
 
 <p align="center">
   <strong>Design & Prototyping</strong><br>
+  <a href="https://linkedin.com/in/mochalfianabadirochim">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
