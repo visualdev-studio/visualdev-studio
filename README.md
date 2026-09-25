@@ -1,10 +1,6 @@
 <h1 align="center">Hi there, I'm VisualDev Studio 👋</h1>
 <h3 align="center">Creative UI/UX Designer & Front-End Developer 🎨 💻</h3>
 
-<!-- Interactive Anime Learning GIF -->
-<p align="center">
-  <img src="https://tenor.com/id/view/ronaldo-flying-head-juventas-goal-serie-a-gif-19538117" width="600" alt="Anime Learning GIF" style="border-radius: 15px;">
-</p>
 
 <p align="center">
   <em>"const state = 'learning & designing';"</em> 🚀
