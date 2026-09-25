@@ -3,7 +3,7 @@
 
 <!-- Interactive Anime Learning GIF -->
 <p align="center">
-  <img src="https://media.tenor.com/Fw8_c1bM7b0AAAAC/lofi-girl.gif" width="600" alt="Anime Learning GIF" style="border-radius: 15px;">
+  <img src="https://tenor.com/id/view/ronaldo-flying-head-juventas-goal-serie-a-gif-19538117" width="600" alt="Anime Learning GIF" style="border-radius: 15px;">
 </p>
 
 <p align="center">
